@@ -4,6 +4,8 @@ An interactive Sales Dashboard built using **Microsoft Power BI** to analyze sal
 
 ---
 
+
+
 ## 📌 Project Overview
 
 This project demonstrates how Power BI can transform raw sales data into meaningful business insights. The dashboard enables users to explore sales trends, compare performance across different categories and regions, and track important KPIs using interactive filters and visualizations.
