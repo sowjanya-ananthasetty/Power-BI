@@ -34,7 +34,7 @@ This project demonstrates how Power BI can transform raw sales data into meaning
 ## 📈 Skills Demonstrated
 
 * Data Cleaning & Transformation
-* Data Modeling
+* Data Modeling (One to Many, Many to One, Many to Many, One to One)
 * DAX Measure Creation
 * Business Intelligence Reporting
 * Dashboard Design
