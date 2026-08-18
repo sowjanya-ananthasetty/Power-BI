@@ -48,7 +48,8 @@ This project demonstrates how Power BI can transform raw sales data into meaning
 PowerBI-Sales-Dashboard/
 │── SalesDashboard.pbix
 │── OrdersDashboard.pbix
-│── factOrders.pbix
+│── factOrders_dashboard.pbix
+│── factOrders_dashboard-2.pbix
 │──README.md
 ```
 
